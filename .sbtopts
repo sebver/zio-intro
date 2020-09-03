@@ -1,0 +1,5 @@
+-J-Xms1024M
+-J-Xmx4096M
+-J-Xss8M
+-J-XX:MaxMetaspaceSize=1512M
+-Dlaxation=true
